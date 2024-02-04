@@ -1,0 +1,7382 @@
+{
+  "Snow_cover": {
+    "2005": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2006": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2007": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2008": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2009": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2010": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2011": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2012": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2013": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2014": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2015": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2016": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2017": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2018": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2019": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2020": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2021": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2022": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2023": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    }
+  },
+  "Temperature": {
+    "2005": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2006": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2007": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2008": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2009": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2010": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2011": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2012": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2013": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2014": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2015": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2016": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2017": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2018": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2019": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2020": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2021": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2022": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    },
+    "2023": {
+      "month_1": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_2": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_3": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_4": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_5": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_6": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_7": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_8": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_9": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_10": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_11": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      },
+      "month_12": {
+        "data": [
+          "numpy_array_0",
+          "numpy_array_1",
+          "numpy_array_2",
+          "numpy_array_3",
+          "numpy_array_4",
+          "numpy_array_5",
+          "numpy_array_6",
+          "numpy_array_7",
+          "numpy_array_8",
+          "numpy_array_9",
+          "..."
+        ],
+        "type": "np.ndarray"
+      }
+    }
+  },
+  "elevation": {
+    "file": "elevation_matrix.npy",
+    "type": "np.ndarray"
+  }
+}
