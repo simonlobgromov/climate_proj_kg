@@ -1,3 +1,6 @@
+![image](https://github.com/simonlobgromov/climate_proj_kg/assets/131668061/6ecd0a9a-8fa6-4947-982f-184d8edca21c)
+
+
 # NDSI Visualization
 
 In this repository, there is an example of visualizing the Snow Cover Index (NDSI) for the years 2005, 2006, 2007, and 2008 using the `Plotly` library. The prepared data is stored in the form of an SQL database. To run the visualization script, execute:
