@@ -9,8 +9,8 @@ import matplotlib.pyplot as plt
 
 # s3 = boto3.client(
 #     's3',
-#     aws_access_key_id='AKIAZI2LCDTNTYZBZVFM',
-#     aws_secret_access_key='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',
+#     aws_access_key_id='',
+#     aws_secret_access_key='',
 #     region_name='ap-northeast-1'
 # )
 # response = s3.list_buckets()
