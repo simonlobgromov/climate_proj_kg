@@ -3,6 +3,11 @@
 
 # Visualization of climate indicators for Kyrgyzstan.
 
+I have prepared data for you and created visualizations of such indicators as NDSI (Snow Cover Index), Land Surface Temperature, and Snow Line Level. The code is organized in the form of Colab Notebooks with detailed descriptions:
+
+* `NDSI_Visualization_skript.ipynb`
+* `Surface_Temperature_Visualization_skript.ipynb`
+* `Snow_Line_Visualization_skript.ipynb`
 
 
 
