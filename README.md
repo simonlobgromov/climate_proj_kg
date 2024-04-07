@@ -159,28 +159,9 @@ $$ \alpha_{slope} = \arctan{(\frac{(\frac{\partial h}{\partial l})_{max}}{| dx, 
 
 
 
+# Statistics and visualization
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-I have prepared data for you and created visualizations of such indicators as NDSI (Snow Cover Index), Land Surface Temperature, and Snow Line Level. The code is organized in the form of Colab Notebooks with detailed descriptions:
+Наше исследование предваряет предварительный анализ полученных данных. На основании их были построены дашборды, которые сохранены в данном репозитории в виде Jypyter ноутбуков. Более подробное описание предложенных графиков имеется внутри каждого файла.
 
 * `NDSI_Visualization_skript.ipynb`
 * `Surface_Temperature_Visualization_skript.ipynb`
